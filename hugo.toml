@@ -1,0 +1,6 @@
+baseURL = 'https://modenablog.pietro-90c.workers.dev/'
+languageCode = 'en-us'
+title = 'MPLS for the masses'
+
+
+theme="hugo-book"
