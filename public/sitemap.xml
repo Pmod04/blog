@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://modenablog.pietro-90c.workers.dev/</loc>
-    <lastmod>2023-07-18T14:15:12+02:00</lastmod>
+    <loc>https://modenablog.pietro-90c.workers.dev/posts/indexpost/</loc>
+    <lastmod>2023-07-21T13:40:18+02:00</lastmod>
   </url><url>
-    <loc>https://modenablog.pietro-90c.workers.dev/posts/mypost/</loc>
-    <lastmod>2023-07-18T14:15:12+02:00</lastmod>
+    <loc>https://modenablog.pietro-90c.workers.dev/</loc>
+    <lastmod>2023-07-21T13:40:18+02:00</lastmod>
   </url><url>
     <loc>https://modenablog.pietro-90c.workers.dev/posts/</loc>
+    <lastmod>2023-07-21T13:40:18+02:00</lastmod>
+  </url><url>
+    <loc>https://modenablog.pietro-90c.workers.dev/posts/mypost/</loc>
     <lastmod>2023-07-18T14:15:12+02:00</lastmod>
   </url><url>
     <loc>https://modenablog.pietro-90c.workers.dev/categories/</loc>

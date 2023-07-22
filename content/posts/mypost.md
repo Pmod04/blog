@@ -9,11 +9,4 @@ This is some content
 
 this blog was made by Pietro Modena
 
-'''bash
-@echo off
-:a
-start
-goto a
-'''
-
 
